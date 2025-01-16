@@ -1,8 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=C3D6F2&height=200&section=header&text=SunshineMoon&fontSize=90)
 
-<br/>
-<br/>
 <div align="center">
 
   ####  :clipboard: Once I've Used 
